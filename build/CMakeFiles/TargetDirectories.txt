@@ -1,0 +1,5 @@
+/home/jiatao/Dropbox/nmpc_pybullet/build/CMakeFiles/rebuild_cache.dir
+/home/jiatao/Dropbox/nmpc_pybullet/build/CMakeFiles/edit_cache.dir
+/home/jiatao/Dropbox/nmpc_pybullet/build/src/CMakeFiles/rebuild_cache.dir
+/home/jiatao/Dropbox/nmpc_pybullet/build/src/CMakeFiles/MPC_WALK.exe.dir
+/home/jiatao/Dropbox/nmpc_pybullet/build/src/CMakeFiles/edit_cache.dir
